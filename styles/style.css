@@ -1,0 +1,57 @@
+/* heade-style-override */
+.navbar-toggler-icon{
+    
+    background: white;
+    border-radius: 10px;
+}
+.honda-bg-info{
+    background-color: #264653;
+}
+.honda-text{
+    color: white;}
+.honda-text:hover{
+    color: white;
+}
+.btn-honda-primary{
+    background-color: #E76F51;
+    color: white;
+}
+.btn-honda-primary:hover{
+    color: white;
+}
+.honda-color-text{
+    color: #E76F51 ;
+    padding-bottom: 2em;
+}
+.bikes{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.gry-img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.honda-heading{
+    text-align: center;
+}
+.card-img{
+    margin: auto;
+    border-radius: 50%;
+}
+.review-text{
+    text-align: center;
+}
+.rating{
+    color: #E76F51;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.name{
+    text-align: center;
+    padding-bottom: 15px;
+    color:#23A6F0;
+}
+.occupation{
+    text-align: center;
+    padding-bottom: 40px;
+}
